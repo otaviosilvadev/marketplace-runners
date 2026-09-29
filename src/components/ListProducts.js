@@ -8,7 +8,7 @@ export const ListProducts = () => {
                     return (
                         <div className="col-sm-4 col-lg-3" key={index}>
                             <img
-                                src={item.imgSrc}
+                                src={`${process.env.PUBLIC_URL}${item.imgSrc}`}
                                 className="imageShine"
                                 alt={item.productName}
                             />

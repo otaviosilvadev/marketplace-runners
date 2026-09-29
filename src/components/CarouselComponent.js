@@ -9,7 +9,7 @@ export const CarouselComponent = () => {
               <Carousel.Item>
                 <img
                   className="imgCarousel"
-                  src="/images/image.png"
+                  src={`${process.env.PUBLIC_URL}/images/image.png`}
                   alt="First slide"
                 />
               </Carousel.Item>
