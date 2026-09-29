@@ -12,6 +12,7 @@ export const ListProducts = () => {
                                 className="imageShine"
                                 alt={item.productName}
                             />
+                            <br/>
                             <span className="spanHeader spanProductName"> {item.productName}</span>
                             <br/>
                             <span className="spanHeader spanCost">

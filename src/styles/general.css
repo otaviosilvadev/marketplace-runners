@@ -58,6 +58,7 @@
 .imgCarousel{
     width: 100%;
     max-height: 450px;
+    border-radius: 10px;
     display: none;
 }
 
@@ -67,7 +68,7 @@
 }
 
 .imageShine{
-    width: 100%;
+    width: 80%;
     border-radius: 10px;
 }
 
