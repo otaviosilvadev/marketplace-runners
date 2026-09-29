@@ -1,0 +1,38 @@
+[
+    {
+    "productName": "Óculos UV400",
+    "imgSrc": "/images/01.png",
+    "shine": true,
+    "cost": 24.90
+    },
+    {
+        "productName": "Boné Resp.",
+        "imgSrc": "/images/02.png",
+        "shine": true,
+        "cost": 24.90
+    },
+    {
+        "productName": "Cinto",
+        "imgSrc": "/images/03.png",
+        "shine": true,
+        "cost": 24.90
+    },
+    {
+        "productName": "Meia Pol.",
+        "imgSrc": "/images/04.png",
+        "shine": true,
+        "cost": 24.90
+    },
+    {
+        "productName": "Manguito",
+        "imgSrc": "/images/05.png",
+        "shine": true,
+        "cost": 24.90
+    },
+    {
+        "productName": "Mochila",
+        "imgSrc": "/images/06.png",
+        "shine": true,
+        "cost": 24.90
+    }
+]
