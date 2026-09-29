@@ -12,7 +12,7 @@ export const Footer = () => {
                     <div className="col text-start spanText">
                         <i className="bi bi-instagram  fs-4"></i> Aquarela Presentes e Papelaria<br/>
                         <i className="bi bi-geo-alt fs-4"></i> Av. Poços de Caldas 102, Cohab, Passos MG<br/>
-                        <i className="bi bi-clock fs-4"></i> Seg-Sex 09h00 as 18h00. Sáb das 09h00 as 15h00.
+                        <i className="bi bi-clock fs-4"></i> Seg-Sex 09h00 as 18h00. Sáb das 09h00 as 15h00
                     </div>
                 </div>
             </div>
