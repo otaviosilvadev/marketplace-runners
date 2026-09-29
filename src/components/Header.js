@@ -4,7 +4,7 @@ export const Header = () => {
             <div className="tab">
                 <div className="row">
                     <div className="col-3">
-                        <img src={`${process.env.PUBLIC_URL}/images/logo.pn`} className="logo" alt="" />
+                        <img src={`${process.env.PUBLIC_URL}/images/logo.png`} className="logo" alt="" />
                     </div>
                     <div className="col-6 headerItems">
                         <div className="tab"><span className="spanHeader"><a className="link" href="#home">Início</a></span>
