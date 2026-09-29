@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/marketplace-runners/static/css/main.64705a59.css",
-    "main.js": "/marketplace-runners/static/js/main.075ba585.js",
+    "main.js": "/marketplace-runners/static/js/main.0d643602.js",
     "static/js/453.004f1429.chunk.js": "/marketplace-runners/static/js/453.004f1429.chunk.js",
     "static/media/bootstrap-icons.woff?": "/marketplace-runners/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/marketplace-runners/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/marketplace-runners/index.html",
     "main.64705a59.css.map": "/marketplace-runners/static/css/main.64705a59.css.map",
-    "main.075ba585.js.map": "/marketplace-runners/static/js/main.075ba585.js.map",
+    "main.0d643602.js.map": "/marketplace-runners/static/js/main.0d643602.js.map",
     "453.004f1429.chunk.js.map": "/marketplace-runners/static/js/453.004f1429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64705a59.css",
-    "static/js/main.075ba585.js"
+    "static/js/main.0d643602.js"
   ]
 }
